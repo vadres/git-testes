@@ -1,0 +1,1 @@
+const fetchAllClients = () => console.log("Fetch Clients");
