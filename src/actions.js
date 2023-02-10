@@ -1,1 +1,1 @@
-const fetchAllClients = () => console.log("Fetch Clients");
+const fetchAllClients = () => console.log("Fetch Clients Await");
