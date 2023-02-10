@@ -1,1 +1,1 @@
-export const f = () => console.log("Hello");
+export const f = (a, b) => console.log(a + b);
